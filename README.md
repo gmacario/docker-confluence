@@ -1,7 +1,7 @@
 docker-confluence
 =================
 
-*NOTE*: This project is no longer maintained.
+**NOTE**: This project is no longer maintained.
 
 Use https://github.com/gmacario/vagrant-atlassian instead.
 
